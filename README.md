@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zvisnjic
 - 👀 I’m interested in Testing Software
-- 🌱 I’m currently learning QA Testing automation, Java and Python
-- 💞️ I’m looking to partizipaite as beginner, on real projects
+- 🌱 I’m currently learning QA Testing automation (Selenium + Java)
+- 💞️ I’m looking to partizipate as beginner, on real projects
 - 📫 How to reach me zvisnjic@neobee.net
 
 <!---
